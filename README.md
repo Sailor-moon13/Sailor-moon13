@@ -55,10 +55,12 @@
 
 <div align="left">
 
+<p align="center">
+  <img src="https://en.misis.ru/f/src/images/misis-logo-en-1.png" width="800" height="300"/>
+</p>
 |  |
 |--|
-| <img src="https://en.misis.ru/f/src/images/misis-logo-en-1.png" width = 60%/> |
-<a href="https://misis.ru/">National University of Science and Technology «MISIS»</a>
+| <a href="https://misis.ru/">National University of Science and Technology «MISIS»</a>
 Specialization: Computer Science |
 
 </div>
