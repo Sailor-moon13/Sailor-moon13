@@ -64,6 +64,7 @@
 
 <h3> Addition Courses: </h3>
 <div align="left">
+  
 <a href="https://stepik.org/course/76/syllabus">Fundamentals of statistics part I</a>
   
 <a href="https://stepik.org/course/524/syllabus">Fundamentals of statistics part II</a> 
