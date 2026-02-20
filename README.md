@@ -55,11 +55,10 @@
 
 <div align="left">
 
-|  |  |
-|--|--|
-| <img src="https://en.misis.ru/f/src/images/misis-logo-en-1.png" /> |
-National University of Science and Technology «MISIS» 
-2020 – 2024  
+|  |
+|--|
+| <img src="https://en.misis.ru/f/src/images/misis-logo-en-1.png" width = 60%/> |
+<a href="https://misis.ru/">National University of Science and Technology «MISIS»</a>
 Specialization: Computer Science |
 
 </div>
