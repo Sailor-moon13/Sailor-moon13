@@ -48,3 +48,18 @@
 | SQLite | MS SQL Server |
 
 </div>
+
+---
+
+## 🎓 Education
+
+<div align="left">
+
+|  |  |
+|--|--|
+| <img src="https://en.misis.ru/f/src/images/misis-logo-en-1.png" width="60"/> | **Bachelor of Computer Science**  
+National University of Science and Technology «MISIS» 
+2020 – 2024  
+Specialization: Computer Science |
+
+</div>
