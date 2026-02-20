@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=300&section=header&text=YOUR_NAME&desc=Creative%20Developer%20%7C%20Problem%20Solver&fontSize=50&descSize=20&fontColor=ffffff&animation=twinkling" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyazgzbDk5Z25xcHdzdGY0cTh0MmpnNW5senJrYmlhaDVhcWc5Y2NqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mQan4KV9MNoJy/giphy.gif" />
 </p>
 
 
