@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2c/7e/d2/2c7ed28e51ab74f70c25f9adf519e3b3.gif" width="1000"/>
+  <svg width="800" height="400">
+    <image href="ССЫЛКА_НА_GIF" width="800" height="400"/>
+    <text x="50%" y="50%" text-anchor="middle" fill="white"
+      font-size="40" font-weight="bold" dy=".3em">
+      YOUR_NAME
+    </text>
+  </svg>
 </p>
 
 
