@@ -58,5 +58,5 @@
 
 <div align="left">
 <a href="https://misis.ru/">National University of Science and Technology «MISIS»</a> 
-Specialization: Computer Science 
+<p> Specialization: Computer Science </p>
 </div>
