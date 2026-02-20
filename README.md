@@ -1,20 +1,6 @@
-<div align="center" style="position: relative; display: inline-block;">
-
-  <img src="https://i.pinimg.com/originals/2c/7e/d2/2c7ed28e51ab74f70c25f9adf519e3b3.gif" width="100%" />
-
-  <h1 style="
-    position: absolute;
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-size: 40px;
-    text-shadow: 2px 2px 10px rgba(0,0,0,0.7);
-  ">
-    YOUR_NAME
-  </h1>
-
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2c/7e/d2/2c7ed28e51ab74f70c25f9adf519e3b3.gif" />
+</p>
 
 
 ## 🧠 Languages
