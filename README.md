@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=300&section=header&text=YOUR_NAME&desc=Creative%20Developer%20%7C%20Problem%20Solver&fontSize=50&descSize=20&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
 
 ## 🧠 Languages
 <div align="left">
