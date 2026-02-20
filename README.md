@@ -13,10 +13,10 @@
 ## ⚙ Frameworks & Libraries
 <div align="left">
 
-|  |  |  |  |  |  |
-|--|--|--|--|--|--|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/pytorch/pytorch-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/tensorflow/tensorflow-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/numpy/numpy-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/pandas/pandas-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/scikitlearn/scikitlearn-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/matplotlib/matplotlib-original.svg" width="50"/> |
-| PyTorch | TensorFlow | Numpy | Pandas | scikitlearn | matplotlib |
+|  |  |  |  |  |  |  |
+|--|--|--|--|--|--|--|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/pytorch/pytorch-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/tensorflow/tensorflow-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/numpy/numpy-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/pandas/pandas-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/scikitlearn/scikitlearn-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/matplotlib/matplotlib-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/unity/unity-original.svg" width="50"/> |
+| PyTorch | TensorFlow | Numpy | Pandas | scikitlearn | matplotlib | Unity |
 
 </div>
 
@@ -25,9 +25,9 @@
 ## 🛠 Tools
 <div align="left">
 
-|  |  |  |  |  |
-|--|--|--|--|--|
-| <img src="ICON" width="50"/> | <img src="ICON" width="50"/> | <img src="ICON" width="50"/> | <img src="ICON" width="50"/> | <img src="ICON" width="50"/> |
-| Git | GitHub | VS Code | Docker | Figma |
+|  |  |  |  |  |  |
+|--|--|--|--|--|--|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/git/git-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/github/github-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/vscode/vscode-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/visualstudio/visualstudio-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/jupyter/jupyter-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/googlecolab/googlecolab-original.svg" width="50"/> |
+| Git | GitHub | VS Code | Visiul studio | Jupyter | Collab |
 
 </div>
