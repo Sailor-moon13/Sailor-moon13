@@ -52,8 +52,9 @@
 ---
 
 ## 🎓 Education
+<p> University: </p>
 <p align="center">
-  <img src="https://en.misis.ru/f/src/images/misis-logo-en-1.png" width="600" height="300"/>
+  <img src="https://en.misis.ru/f/src/images/misis-logo-en-1.png" width="400" height="200" href="https://misis.ru/" />
 </p>
 
 <div align="left">
