@@ -59,8 +59,12 @@
 
 <div align="left">
 <a href="https://misis.ru/">National University of Science and Technology «MISIS»</a> 
-<p> Specialization: Computer Science </p>
+<p> Specialization: Computer Science (bachelor)</p>
 </div>
 
 <h3> Addition Courses: </h3>
-<a href="https://misis.ru/">National University of Science and Technology «MISIS»</a> 
+<a href="https://stepik.org/course/76/syllabus">Fundamentals of statistics part I</a> 
+<a href="https://stepik.org/course/524/syllabus">Fundamentals of statistics part II</a> 
+<a href="https://stepik.org/course/4852/syllabus">introduction in data science & Machine learning</a> 
+<a href="https://learning.edx.org/course/course-v1:UCSanDiegoX+DS220x+1T2018/home">Machine Learning Fundamentals</a> 
+<a href="https://stepik.org/course/231644/syllabus">Computer vision fundamentals</a> 
