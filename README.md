@@ -1,16 +1,33 @@
-## Hi there 👋
+## 🧠 Languages
+<div align="left">
 
-<!--
-**Sailor-moon13/Sailor-moon13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|  |  |  |  |
+|--|--|--|--|
+| <img src="ICON" width="50"/> | <img src="ICON" width="50"/> | <img src="ICON" width="50"/> | <img src="ICON" width="50"/> |
+| Python | C# | HTML | CSS |
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙ Frameworks
+<div align="left">
+
+|  |  |  |  |
+|--|--|--|--|
+| <img src="ICON" width="50"/> | <img src="ICON" width="50"/> | <img src="ICON" width="50"/> | <img src="ICON" width="50"/> |
+| Selenium | Qt | PyTest | JUnit |
+
+</div>
+
+---
+
+## 🛠 Tools
+<div align="left">
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+| <img src="ICON" width="50"/> | <img src="ICON" width="50"/> | <img src="ICON" width="50"/> | <img src="ICON" width="50"/> | <img src="ICON" width="50"/> |
+| Git | GitHub | VS Code | Docker | Figma |
+
+</div>
